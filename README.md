@@ -16,10 +16,10 @@ OpenBio 2026 Datathon, Track 1: Maternal-Fetal Cell Communication in Preeclampsi
 - Exploratory: which ligand–receptor pairs between cell types change in PE?
 
 ## Data Used
-- [x] GSE203507 bulk RNA-seq (required)
-- [x] Zeisel/Admati gene browser, for at least three genes (required): FLT1, ENG, LEP, INHBA and CADM3
-- [x] Admati/Skarbianskis single-cell pseudobulk files (optional)
-- [x] LIANA consensus ligand–receptor resource (LIANA 1.10.0)
+- GSE203507 bulk RNA-seq (required)
+- Zeisel/Admati gene browser, for at least three genes (required): FLT1, ENG, LEP, INHBA and CADM3
+- Admati/Skarbianskis single-cell pseudobulk files (optional)
+- LIANA consensus ligand–receptor resource (LIANA 1.10.0)
 
 ## How to Run
 1. Clone the datathon repository; the data package is in `track-01/data`. On Colab, the first notebook cell clones it automatically.
@@ -58,4 +58,4 @@ OpenBio 2026 Datathon, Track 1: Maternal-Fetal Cell Communication in Preeclampsi
 - RNA levels do not show protein levels or signaling activity.
 
 ## Presentation
-Video link: [add your unlisted YouTube link]
+Video link: https://youtu.be/4_kQrlhvYTM?is=xe4HESwivoMBIkH8

@@ -1,4 +1,4 @@
-# \[Decoding Placental Signaling in Early-Onset Preeclampsia
+# Decoding Placental Signaling in Early-Onset Preeclampsia
 
 **A study of placental gene activity found hundreds of differences in early-onset preeclampsia, but identifying which cells drive them remains a challenge.**
 
@@ -6,7 +6,7 @@ By Aditi Chaudhari, Christine Yao, Jason Liu, and Ruchika Mudraganam | Team Brow
 
 ![Headline figure showing the main finding in placental gene expression](../figures/headline.png)
 
-*Figure 1. **Placental gene activity differs in early-onset preeclampsia.** In the primary comparison, 258 genes showed higher activity, and 90 showed lower activity in preeclampsia placentas, after adjustment for gestational age at delivery and fetal growth restriction. \[Replace this caption if the chosen headline figure shows different data.]*
+*Figure 1. **Placental gene activity differs in early-onset preeclampsia.** In the primary comparison, 258 genes showed higher activity, and 90 showed lower activity in preeclampsia placentas, after adjustment for gestational age at delivery and fetal growth restriction.*
 
 ## Introduction
 
@@ -68,7 +68,7 @@ A stronger next study would compare early-onset preeclampsia with gestational-ag
 
 ## Data and Code
 
-* **Repository:** \[Add Brownian Huskey GitHub repository URL before submission]
+* **Repository:** [Brownian Huskey GitHub repository](https://github.com/chaudhariaditi96/brownian-huskies_datathon.git)
 * **Bulk placental RNA sequencing:** [GSE203507](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE203507)
 * **Cell-resolved dataset:** [Admati and colleagues' placental dataset](https://doi.org/10.6084/m9.figshare.23264102.v1)
 * **Placental gene browser:** [Zeisel Lab browser](https://storage.googleapis.com/www_zeisellab/PE_web/pe_web_test_v1.html)
